@@ -1,0 +1,20 @@
+ #main-content {
+	border:solid;
+	width: 300px;
+	padding:5px;
+	display: block;
+	background:yellow;
+ }
+
+ 
+ img {
+   background:yellow;
+   padding: 20px;
+   width: 200px;
+   height: 200px;
+}
+
+.caption{
+	display:block;
+	
+}

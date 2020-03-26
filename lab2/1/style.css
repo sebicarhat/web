@@ -1,0 +1,24 @@
+
+.row {
+  width: 400px;
+  border-style: solid;
+  display: flex; /* equal height of the children */
+}
+
+.col {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  width:200px;
+}
+
+img{
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+p{
+text-align: center;
+}

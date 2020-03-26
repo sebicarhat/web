@@ -1,0 +1,150 @@
+
+#navlist {
+  position: relative;
+}
+
+#navlist li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  top: 0;
+}
+
+#navlist li, #navlist a {
+  height: 84px;
+  display: block;
+}
+
+#one:hover {
+  left: 0px;
+  width: 84px;
+  background: url('css-pr4.png') 0 0;
+}
+
+#two:hover {
+  left: 84px;
+  width: 84px;
+  background: url('css-pr4.png') -84px 0;
+}
+
+
+#three:hover {
+  left: 168px;
+  width: 84px;
+  background: url('css-pr4.png') -168px 0;
+}
+
+#for:hover  {
+  left: 252px;
+  width: 84px;
+  background: url('css-pr4.png') -252px 0;
+}
+
+#five:hover  {
+  left: 336px;
+  width: 84px;
+  background: url('css-pr4.png') -336px 0;
+}
+
+#six:hover  {
+  left: 420px;
+  width: 84px;
+  background: url('css-pr4.png') -420px 0;
+}
+
+#seven:hover  {
+  left: 504px;
+  width: 84px;
+  background: url('css-pr4.png') -504px 0;
+}
+
+#eight:hover  {
+  left: 588px;
+  width: 84px;
+  background: url('css-pr4.png') -588px 0;
+}
+
+#nine:hover  {
+  left: 672px;
+  width: 84px;
+  background: url('css-pr4.png') -672px 0;
+}
+
+#ten:hover  {
+  left: 756px;
+  width: 84px;
+  background: url('css-pr4.png') -756px 0;
+}
+
+#eleven:hover  {
+  left: 840px;
+  width: 84px;
+  background: url('css-pr4.png') -840px 0;
+}
+
+#one {
+  left: 0px;
+  width: 84px;
+  background: url('css-pr4.png') 0 -84px;
+}
+
+#two {
+  left: 84px;
+  width: 84px;
+  background: url('css-pr4.png') -84px -84px;
+}
+
+#three {
+  left: 168px;
+  width: 84px;
+  background: url('css-pr4.png') -168px -84px;
+}
+
+#for {
+  left: 252px;
+  width: 84px;
+  background: url('css-pr4.png') -252px -84px;
+}
+
+#five {
+  left: 336px;
+  width: 84px;
+  background: url('css-pr4.png') -336px -84px;
+}
+
+#six {
+  left: 420px;
+  width: 84px;
+  background: url('css-pr4.png') -420px -84px;
+}
+
+#seven {
+  left: 504px;
+  width: 84px;
+  background: url('css-pr4.png') -504px -84px;
+}
+
+#eight {
+  left: 588px;
+  width: 84px;
+  background: url('css-pr4.png') -588px -84px;
+}
+
+#nine {
+  left: 672px;
+  width: 84px;
+  background: url('css-pr4.png') -672px -84px;
+}
+
+#ten {
+  left: 756px;
+  width: 84px;
+  background: url('css-pr4.png') -756px -84px;
+}
+
+#eleven {
+  left: 840px;
+  width: 84px;
+  background: url('css-pr4.png') -840px -84px;
+}
